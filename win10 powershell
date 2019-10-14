@@ -1,0 +1,7 @@
+# win10 powershell命令
+- 今天发现win10中类似linix的命令行模式，非cmd
+- 用win+r打开运行界面
+- 输入powershell，回车，就进入命令行模式
+- 常用指令
+  
+  cd进入子目录，cd..返回上一级，ls显示当前目录下的所有文件
